@@ -1,5 +1,5 @@
 {
-    "inasircli@gmail.com": "BP3KNBCKSNGK",
-    "user2@example.com": "ABCDEF123456",
-    "anotheruser@example.com": "ZXCVBN789012"
+  "hardware_id_1": {
+    "inasircli@gmail.com": "BP3KNBCKSNGK"
+  }
 }
